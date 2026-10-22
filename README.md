@@ -13,10 +13,10 @@
 
 ## ⬇️ Скачать
 
-Готовые архивы с видео — в разделе **[Releases](../../releases/latest)**:
+Готовые архивы (приложение + 4 обоев в 4K), нажми, и скачивание начнётся:
 
-- `LiveWallpaper-Mac.zip` — для macOS 13 Ventura и новее
-- `LiveWallpaper-Windows.zip` — для Windows 10 / 11
+- 🍎 **[LiveWallpaper-Mac.zip](https://github.com/umidulloh-dev/live-wallpaper/raw/main/downloads/LiveWallpaper-Mac.zip)** — для macOS 13 Ventura и новее (33 МБ)
+- 🪟 **[LiveWallpaper-Windows.zip](https://github.com/umidulloh-dev/live-wallpaper/raw/main/downloads/LiveWallpaper-Windows.zip)** — для Windows 10 / 11 (70 МБ)
 
 ## 🍎 Установка на Mac
 
